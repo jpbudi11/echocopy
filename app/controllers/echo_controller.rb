@@ -23,8 +23,6 @@ class EchoController < ApplicationController
       else 
         @checkForAge = "present"
       end
-      
-      puts params.inspect
     
   end
 end

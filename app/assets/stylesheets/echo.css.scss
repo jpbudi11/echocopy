@@ -1,0 +1,35 @@
+// Place all the styles related to the echo controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+ @import "bootstrap";
+
+.column, .formAndTable {float:left;
+	width:300px;
+	color: yellow;
+	font-family:"Sans-serif", sans-serif;} 
+body
+{
+background-color:blue;
+font-color: yellow;
+font-family:"Sans-serif";
+}
+h1 {
+	color: black;
+}
+
+table{
+		border-width: thin;
+	    border-style: none;
+	    border-color: white;
+	border: 1px solid white;
+	border-collapse: collapse;
+	}
+.enterYour {
+	color: gray;
+}
+td, th {
+		    border: 1px solid white;
+		border-spacing: 8px;
+		color: yellow;
+		}
